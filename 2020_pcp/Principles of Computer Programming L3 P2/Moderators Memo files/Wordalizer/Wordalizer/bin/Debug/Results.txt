@@ -1,0 +1,8 @@
+********************************
+Input String: PEACE AND UNITY
+
+Total Word Count: 13
+
+Vowel Count: 6
+
+Consonant Count: 7

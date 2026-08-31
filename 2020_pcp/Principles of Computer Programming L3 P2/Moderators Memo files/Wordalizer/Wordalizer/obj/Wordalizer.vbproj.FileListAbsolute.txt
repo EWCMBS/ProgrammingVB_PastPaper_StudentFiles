@@ -1,0 +1,12 @@
+C:\Users\Faheem\Desktop\242\Principles Of Computer Programming L3 P2 - NC1, NC2 & NC3 of 2019\NC1 of 2019\Moderators Memo files\Wordalizer\Wordalizer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faheem\Desktop\242\Principles Of Computer Programming L3 P2 - NC1, NC2 & NC3 of 2019\NC1 of 2019\Moderators Memo files\Wordalizer\Wordalizer\obj\Debug\Wordalizer.Resources.resources
+C:\Users\Faheem\Desktop\242\Principles Of Computer Programming L3 P2 - NC1, NC2 & NC3 of 2019\NC1 of 2019\Moderators Memo files\Wordalizer\Wordalizer\obj\Debug\Wordalizer.vbproj.GenerateResource.Cache
+C:\Users\Faheem\Desktop\242\Principles Of Computer Programming L3 P2 - NC1, NC2 & NC3 of 2019\NC1 of 2019\Moderators Memo files\Wordalizer\Wordalizer\bin\Debug\Wordalizer.exe
+C:\Users\Faheem\Desktop\242\Principles Of Computer Programming L3 P2 - NC1, NC2 & NC3 of 2019\NC1 of 2019\Moderators Memo files\Wordalizer\Wordalizer\bin\Debug\Wordalizer.pdb
+C:\Users\Faheem\Desktop\242\Principles Of Computer Programming L3 P2 - NC1, NC2 & NC3 of 2019\NC1 of 2019\Moderators Memo files\Wordalizer\Wordalizer\bin\Debug\Wordalizer.xml
+C:\Users\Faheem\Desktop\242\Principles Of Computer Programming L3 P2 - NC1, NC2 & NC3 of 2019\NC1 of 2019\Moderators Memo files\Wordalizer\Wordalizer\obj\Debug\Wordalizer.exe
+C:\Users\Faheem\Desktop\242\Principles Of Computer Programming L3 P2 - NC1, NC2 & NC3 of 2019\NC1 of 2019\Moderators Memo files\Wordalizer\Wordalizer\obj\Debug\Wordalizer.xml
+C:\Users\Faheem\Desktop\242\Principles Of Computer Programming L3 P2 - NC1, NC2 & NC3 of 2019\NC1 of 2019\Moderators Memo files\Wordalizer\Wordalizer\obj\Debug\Wordalizer.pdb
+G:\Mod 2019 - 2020\242\Principles Of Computer Programming L3 P2 - NC1, NC2 & NC3 of 2019\NC1 of 2019\Moderators Memo files\Wordalizer\Wordalizer\obj\Debug\Wordalizer.exe
+G:\Mod 2019 - 2020\242\Principles Of Computer Programming L3 P2 - NC1, NC2 & NC3 of 2019\NC1 of 2019\Moderators Memo files\Wordalizer\Wordalizer\obj\Debug\Wordalizer.xml
+G:\Mod 2019 - 2020\242\Principles Of Computer Programming L3 P2 - NC1, NC2 & NC3 of 2019\NC1 of 2019\Moderators Memo files\Wordalizer\Wordalizer\obj\Debug\Wordalizer.pdb
