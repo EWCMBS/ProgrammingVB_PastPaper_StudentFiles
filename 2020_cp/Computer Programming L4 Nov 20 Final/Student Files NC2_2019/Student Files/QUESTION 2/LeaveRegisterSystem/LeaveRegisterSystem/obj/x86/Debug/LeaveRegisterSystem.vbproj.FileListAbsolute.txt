@@ -1,0 +1,13 @@
+C:\Users\admin\Downloads\2019 CP\VB\LeaveRegisterSystem\LeaveRegisterSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Downloads\2019 CP\VB\LeaveRegisterSystem\LeaveRegisterSystem\obj\x86\Debug\LeaveRegisterSystem.Form1.resources
+C:\Users\admin\Downloads\2019 CP\VB\LeaveRegisterSystem\LeaveRegisterSystem\obj\x86\Debug\LeaveRegisterSystem.Resources.resources
+C:\Users\admin\Downloads\2019 CP\VB\LeaveRegisterSystem\LeaveRegisterSystem\obj\x86\Debug\LeaveRegisterSystem.vbproj.GenerateResource.Cache
+C:\Users\admin\Downloads\2019 CP\VB\LeaveRegisterSystem\LeaveRegisterSystem\bin\x86\Debug\LeaveRegisterSystem.exe
+C:\Users\admin\Downloads\2019 CP\VB\LeaveRegisterSystem\LeaveRegisterSystem\bin\x86\Debug\LeaveRegisterSystem.pdb
+C:\Users\admin\Downloads\2019 CP\VB\LeaveRegisterSystem\LeaveRegisterSystem\bin\x86\Debug\LeaveRegisterSystem.xml
+C:\Users\admin\Downloads\2019 CP\VB\LeaveRegisterSystem\LeaveRegisterSystem\obj\x86\Debug\LeaveRegisterSystem.exe
+C:\Users\admin\Downloads\2019 CP\VB\LeaveRegisterSystem\LeaveRegisterSystem\obj\x86\Debug\LeaveRegisterSystem.xml
+C:\Users\admin\Downloads\2019 CP\VB\LeaveRegisterSystem\LeaveRegisterSystem\obj\x86\Debug\LeaveRegisterSystem.pdb
+C:\Users\admin\Pictures\NC2\Student Files\LeaveRegisterSystem\LeaveRegisterSystem\obj\x86\Debug\LeaveRegisterSystem.exe
+C:\Users\admin\Pictures\NC2\Student Files\LeaveRegisterSystem\LeaveRegisterSystem\obj\x86\Debug\LeaveRegisterSystem.xml
+C:\Users\admin\Pictures\NC2\Student Files\LeaveRegisterSystem\LeaveRegisterSystem\obj\x86\Debug\LeaveRegisterSystem.pdb

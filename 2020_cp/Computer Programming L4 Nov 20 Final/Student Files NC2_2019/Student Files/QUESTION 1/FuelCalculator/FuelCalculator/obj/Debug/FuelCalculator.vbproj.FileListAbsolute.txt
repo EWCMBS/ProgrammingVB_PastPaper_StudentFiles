@@ -1,0 +1,23 @@
+C:\Users\Session2\AppData\Local\Temporary Projects\FuelCalculator\bin\Debug\FuelCalculator.exe
+C:\Users\Session2\AppData\Local\Temporary Projects\FuelCalculator\bin\Debug\FuelCalculator.pdb
+C:\Users\Session2\AppData\Local\Temporary Projects\FuelCalculator\bin\Debug\FuelCalculator.xml
+C:\Users\Session2\AppData\Local\Temporary Projects\FuelCalculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Session2\AppData\Local\Temporary Projects\FuelCalculator\obj\Debug\FuelCalculator.Form1.resources
+C:\Users\Session2\AppData\Local\Temporary Projects\FuelCalculator\obj\Debug\FuelCalculator.Resources.resources
+C:\Users\Session2\AppData\Local\Temporary Projects\FuelCalculator\obj\Debug\FuelCalculator.vbproj.GenerateResource.Cache
+C:\Users\Session2\AppData\Local\Temporary Projects\FuelCalculator\obj\Debug\FuelCalculator.exe
+C:\Users\Session2\AppData\Local\Temporary Projects\FuelCalculator\obj\Debug\FuelCalculator.xml
+C:\Users\Session2\AppData\Local\Temporary Projects\FuelCalculator\obj\Debug\FuelCalculator.pdb
+C:\Users\Session2\Downloads\VB\FuelCalculator\FuelCalculator\obj\Debug\FuelCalculator.exe
+C:\Users\Session2\Downloads\VB\FuelCalculator\FuelCalculator\obj\Debug\FuelCalculator.xml
+C:\Users\Session2\Downloads\VB\FuelCalculator\FuelCalculator\obj\Debug\FuelCalculator.pdb
+C:\Users\admin\Pictures\NC2\Student Files\QUESTION 1\FuelCalculator\FuelCalculator\obj\Debug\FuelCalculator.exe
+C:\Users\admin\Pictures\NC2\Student Files\QUESTION 1\FuelCalculator\FuelCalculator\obj\Debug\FuelCalculator.xml
+C:\Users\admin\Pictures\NC2\Student Files\QUESTION 1\FuelCalculator\FuelCalculator\obj\Debug\FuelCalculator.pdb
+C:\Users\admin\Pictures\NC2\Student Files\QUESTION 1\FuelCalculator\FuelCalculator\bin\Debug\FuelCalculator.exe
+C:\Users\admin\Pictures\NC2\Student Files\QUESTION 1\FuelCalculator\FuelCalculator\bin\Debug\FuelCalculator.pdb
+C:\Users\admin\Pictures\NC2\Student Files\QUESTION 1\FuelCalculator\FuelCalculator\bin\Debug\FuelCalculator.xml
+C:\Users\admin\Pictures\NC2\Student Files\QUESTION 1\FuelCalculator\FuelCalculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Pictures\NC2\Student Files\QUESTION 1\FuelCalculator\FuelCalculator\obj\Debug\FuelCalculator.Form1.resources
+C:\Users\admin\Pictures\NC2\Student Files\QUESTION 1\FuelCalculator\FuelCalculator\obj\Debug\FuelCalculator.Resources.resources
+C:\Users\admin\Pictures\NC2\Student Files\QUESTION 1\FuelCalculator\FuelCalculator\obj\Debug\FuelCalculator.vbproj.GenerateResource.Cache
