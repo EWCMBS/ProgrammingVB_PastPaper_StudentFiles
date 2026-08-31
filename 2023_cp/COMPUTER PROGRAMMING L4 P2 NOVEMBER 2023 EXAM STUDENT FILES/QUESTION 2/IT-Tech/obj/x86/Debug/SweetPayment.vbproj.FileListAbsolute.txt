@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\2022\SweetPayment\SweetPayment\bin\x86\Debug\SweetPayment.exe
+C:\Users\admin\Desktop\2022\SweetPayment\SweetPayment\bin\x86\Debug\SweetPayment.pdb
+C:\Users\admin\Desktop\2022\SweetPayment\SweetPayment\bin\x86\Debug\SweetPayment.xml
+C:\Users\admin\Desktop\2022\SweetPayment\SweetPayment\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\2022\SweetPayment\SweetPayment\obj\x86\Debug\SweetPayment.Form1.resources
+C:\Users\admin\Desktop\2022\SweetPayment\SweetPayment\obj\x86\Debug\SweetPayment.Resources.resources
+C:\Users\admin\Desktop\2022\SweetPayment\SweetPayment\obj\x86\Debug\SweetPayment.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\2022\SweetPayment\SweetPayment\obj\x86\Debug\SweetPayment.exe
+C:\Users\admin\Desktop\2022\SweetPayment\SweetPayment\obj\x86\Debug\SweetPayment.xml
+C:\Users\admin\Desktop\2022\SweetPayment\SweetPayment\obj\x86\Debug\SweetPayment.pdb
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\STUDENT FILES\QUESTION 2\SweetPayment\SweetPayment\obj\x86\Debug\SweetPayment.exe
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\STUDENT FILES\QUESTION 2\SweetPayment\SweetPayment\obj\x86\Debug\SweetPayment.xml
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\STUDENT FILES\QUESTION 2\SweetPayment\SweetPayment\obj\x86\Debug\SweetPayment.pdb

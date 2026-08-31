@@ -1,0 +1,36 @@
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\STUDENT FILES\QUESTION 2\MyTutor\SweetPayment\obj\Debug\SweetPayment.exe
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\STUDENT FILES\QUESTION 2\MyTutor\SweetPayment\obj\Debug\SweetPayment.xml
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\STUDENT FILES\QUESTION 2\MyTutor\SweetPayment\obj\Debug\SweetPayment.pdb
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\STUDENT FILES\QUESTION 2\MyTutor\SweetPayment\bin\Debug\SweetPayment.exe
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\STUDENT FILES\QUESTION 2\MyTutor\SweetPayment\bin\Debug\SweetPayment.pdb
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\STUDENT FILES\QUESTION 2\MyTutor\SweetPayment\bin\Debug\SweetPayment.xml
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\STUDENT FILES\QUESTION 2\MyTutor\SweetPayment\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\STUDENT FILES\QUESTION 2\MyTutor\SweetPayment\obj\Debug\SweetPayment.Form1.resources
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\STUDENT FILES\QUESTION 2\MyTutor\SweetPayment\obj\Debug\SweetPayment.Resources.resources
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\STUDENT FILES\QUESTION 2\MyTutor\SweetPayment\obj\Debug\MyTutor.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\STUDENT FILES\QUESTION 2\MyTutor\MyTotor\obj\Debug\SweetPayment.exe
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\STUDENT FILES\QUESTION 2\MyTutor\MyTotor\obj\Debug\SweetPayment.xml
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\STUDENT FILES\QUESTION 2\MyTutor\MyTotor\obj\Debug\SweetPayment.pdb
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\STUDENT FILES\QUESTION 2\MyTutor\MyTotor\bin\Debug\SweetPayment.exe
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\STUDENT FILES\QUESTION 2\MyTutor\MyTotor\bin\Debug\SweetPayment.pdb
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\STUDENT FILES\QUESTION 2\MyTutor\MyTotor\bin\Debug\SweetPayment.xml
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\STUDENT FILES\QUESTION 2\MyTutor\MyTotor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\STUDENT FILES\QUESTION 2\MyTutor\MyTotor\obj\Debug\SweetPayment.Form1.resources
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\STUDENT FILES\QUESTION 2\MyTutor\MyTotor\obj\Debug\SweetPayment.Resources.resources
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\STUDENT FILES\QUESTION 2\MyTutor\MyTotor\obj\Debug\MyTutor.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\CP P2 L4\STUDENT FILEs\QUESTION 2\MyTutor\MyTotor\obj\Debug\SweetPayment.exe
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\CP P2 L4\STUDENT FILEs\QUESTION 2\MyTutor\MyTotor\obj\Debug\SweetPayment.xml
+C:\Users\admin\Desktop\2022 ASSESSMENT\Preparation 2022\CP P2 L4\STUDENT FILEs\QUESTION 2\MyTutor\MyTotor\obj\Debug\SweetPayment.pdb
+F:\Computer Programming Mod 01 Oct 2022\Computer Programming L4 P2\N 01 of 2022\STUDENT FILES\QUESTION 2\MyTutor\MyTotor\obj\Debug\SweetPayment.exe
+F:\Computer Programming Mod 01 Oct 2022\Computer Programming L4 P2\N 01 of 2022\STUDENT FILES\QUESTION 2\MyTutor\MyTotor\obj\Debug\SweetPayment.xml
+F:\Computer Programming Mod 01 Oct 2022\Computer Programming L4 P2\N 01 of 2022\STUDENT FILES\QUESTION 2\MyTutor\MyTotor\obj\Debug\SweetPayment.pdb
+F:\UMALUSI 2023\CP L4 P2 NOV 23\P2 DATA\COMPUTER PROGRAMMING L4 P2  STUDENT FILES\QUESTION 2\IT-Tech\obj\Debug\SweetPayment.exe
+F:\UMALUSI 2023\CP L4 P2 NOV 23\P2 DATA\COMPUTER PROGRAMMING L4 P2  STUDENT FILES\QUESTION 2\IT-Tech\obj\Debug\SweetPayment.xml
+F:\UMALUSI 2023\CP L4 P2 NOV 23\P2 DATA\COMPUTER PROGRAMMING L4 P2  STUDENT FILES\QUESTION 2\IT-Tech\obj\Debug\SweetPayment.pdb
+F:\UMALUSI 2023\CP L4 P2 NOV 23\P2 DATA\COMPUTER PROGRAMMING L4 P2  STUDENT FILES\QUESTION 2\IT-Tech\bin\Debug\SweetPayment.exe
+F:\UMALUSI 2023\CP L4 P2 NOV 23\P2 DATA\COMPUTER PROGRAMMING L4 P2  STUDENT FILES\QUESTION 2\IT-Tech\bin\Debug\SweetPayment.pdb
+F:\UMALUSI 2023\CP L4 P2 NOV 23\P2 DATA\COMPUTER PROGRAMMING L4 P2  STUDENT FILES\QUESTION 2\IT-Tech\bin\Debug\SweetPayment.xml
+F:\UMALUSI 2023\CP L4 P2 NOV 23\P2 DATA\COMPUTER PROGRAMMING L4 P2  STUDENT FILES\QUESTION 2\IT-Tech\obj\Debug\ResolveAssemblyReference.cache
+F:\UMALUSI 2023\CP L4 P2 NOV 23\P2 DATA\COMPUTER PROGRAMMING L4 P2  STUDENT FILES\QUESTION 2\IT-Tech\obj\Debug\SweetPayment.Form1.resources
+F:\UMALUSI 2023\CP L4 P2 NOV 23\P2 DATA\COMPUTER PROGRAMMING L4 P2  STUDENT FILES\QUESTION 2\IT-Tech\obj\Debug\SweetPayment.Resources.resources
+F:\UMALUSI 2023\CP L4 P2 NOV 23\P2 DATA\COMPUTER PROGRAMMING L4 P2  STUDENT FILES\QUESTION 2\IT-Tech\obj\Debug\MyTutor.vbproj.GenerateResource.Cache

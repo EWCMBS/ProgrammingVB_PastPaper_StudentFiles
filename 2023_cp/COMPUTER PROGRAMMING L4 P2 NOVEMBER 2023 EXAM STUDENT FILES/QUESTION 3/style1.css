@@ -1,0 +1,17 @@
+/*------ page layout - do not edit ----*/
+#container{width:50%, float:left;}
+#header{text-align:center;background-color:white; height:18%;}
+#nav{height:50px;background-color:brown;}
+#left{float:left; width:25%;}
+#right{float:right; width:25%;valign:middle;}
+#content {float:left;width:48%;background-color:silver; padding-left:30px;}
+#footer {clear: both;text-align:center;background-color:gray;}
+/*------ end of page layout ----------*/
+
+ul{list-style-type:none;width:100%;
+	margin:0; padding:0;}
+
+li{float:left;}
+li a{display:block;text-decoration:none; color:white;text-align:center; padding:14px 16px;}
+li a:hover{}
+
