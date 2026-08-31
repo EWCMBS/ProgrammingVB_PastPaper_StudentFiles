@@ -1,0 +1,22 @@
+C:\Users\user\Desktop\ISD\StudentFiles\NC1\Fix Computer Inventery\Fix Computer Inventery\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\ISD\StudentFiles\NC1\Fix Computer Inventery\Fix Computer Inventery\obj\Debug\Fix_Computer_Inventery.Form1.resources
+C:\Users\user\Desktop\ISD\StudentFiles\NC1\Fix Computer Inventery\Fix Computer Inventery\obj\Debug\Fix Computer Inventery.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\ISD\StudentFiles\NC1\Fix Computer Inventery\Fix Computer Inventery\obj\Debug\Fix_Computer_Inventery.Resources.resources
+C:\Users\user\Desktop\ISD\StudentFiles\NC1\Fix Computer Inventery\Fix Computer Inventery\bin\Debug\Fix Computer Inventery.exe
+C:\Users\user\Desktop\ISD\StudentFiles\NC1\Fix Computer Inventery\Fix Computer Inventery\bin\Debug\Fix Computer Inventery.pdb
+C:\Users\user\Desktop\ISD\StudentFiles\NC1\Fix Computer Inventery\Fix Computer Inventery\bin\Debug\Fix Computer Inventery.xml
+C:\Users\user\Desktop\ISD\StudentFiles\NC1\Fix Computer Inventery\Fix Computer Inventery\obj\Debug\Fix Computer Inventery.exe
+C:\Users\user\Desktop\ISD\StudentFiles\NC1\Fix Computer Inventery\Fix Computer Inventery\obj\Debug\Fix Computer Inventery.xml
+C:\Users\user\Desktop\ISD\StudentFiles\NC1\Fix Computer Inventery\Fix Computer Inventery\obj\Debug\Fix Computer Inventery.pdb
+F:\ISD-P2-QP-MG StudentFiles\NC1\StudentFiles\NC1 -ISD\Fix Computer Inventery\Fix Computer Inventery\obj\Debug\Fix Computer Inventery.exe
+F:\ISD-P2-QP-MG StudentFiles\NC1\StudentFiles\NC1 -ISD\Fix Computer Inventery\Fix Computer Inventery\obj\Debug\Fix Computer Inventery.xml
+F:\ISD-P2-QP-MG StudentFiles\NC1\StudentFiles\NC1 -ISD\Fix Computer Inventery\Fix Computer Inventery\obj\Debug\Fix Computer Inventery.pdb
+F:\ISD-P2-QP-MG StudentFiles\NC1\StudentFiles\NC1 -ISD\Fix Computer Inventery\Fix Computer Inventery\bin\Debug\Fix Computer Inventery.exe
+F:\ISD-P2-QP-MG StudentFiles\NC1\StudentFiles\NC1 -ISD\Fix Computer Inventery\Fix Computer Inventery\bin\Debug\Fix Computer Inventery.pdb
+F:\ISD-P2-QP-MG StudentFiles\NC1\StudentFiles\NC1 -ISD\Fix Computer Inventery\Fix Computer Inventery\bin\Debug\Fix Computer Inventery.xml
+F:\ISD-P2-QP-MG StudentFiles\NC1\StudentFiles\NC1 -ISD\Fix Computer Inventery\Fix Computer Inventery\obj\Debug\Fix_Computer_Inventery.Form1.resources
+F:\ISD-P2-QP-MG StudentFiles\NC1\StudentFiles\NC1 -ISD\Fix Computer Inventery\Fix Computer Inventery\obj\Debug\Fix_Computer_Inventery.Resources.resources
+F:\ISD-P2-QP-MG StudentFiles\NC1\StudentFiles\NC1 -ISD\Fix Computer Inventery\Fix Computer Inventery\obj\Debug\Fix Computer Inventery.vbproj.GenerateResource.Cache
+C:\Users\Lusani\Desktop\ISD-P2-QP-MG StudentFiles\NC1\StudentFiles\NC1 -ISD\Fix Computer Inventery\Fix Computer Inventery\obj\Debug\Fix Computer Inventery.exe
+C:\Users\Lusani\Desktop\ISD-P2-QP-MG StudentFiles\NC1\StudentFiles\NC1 -ISD\Fix Computer Inventery\Fix Computer Inventery\obj\Debug\Fix Computer Inventery.xml
+C:\Users\Lusani\Desktop\ISD-P2-QP-MG StudentFiles\NC1\StudentFiles\NC1 -ISD\Fix Computer Inventery\Fix Computer Inventery\obj\Debug\Fix Computer Inventery.pdb

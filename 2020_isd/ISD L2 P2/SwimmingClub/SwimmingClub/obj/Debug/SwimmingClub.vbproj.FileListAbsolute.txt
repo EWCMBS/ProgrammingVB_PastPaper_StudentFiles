@@ -1,0 +1,29 @@
+C:\Users\user\Documents\Visual Studio 2008\Projects\StudentFiles\SwimmingClub\SwimmingClub\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\StudentFiles\SwimmingClub\SwimmingClub\obj\Debug\SwimmingClub.Form1.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\StudentFiles\SwimmingClub\SwimmingClub\obj\Debug\SwimmingClub.Resources.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\StudentFiles\SwimmingClub\SwimmingClub\obj\Debug\SwimmingClub.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\StudentFiles\SwimmingClub\SwimmingClub\bin\Debug\SwimmingClub.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\StudentFiles\SwimmingClub\SwimmingClub\bin\Debug\SwimmingClub.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\StudentFiles\SwimmingClub\SwimmingClub\bin\Debug\SwimmingClub.xml
+C:\Users\user\Documents\Visual Studio 2008\Projects\StudentFiles\SwimmingClub\SwimmingClub\obj\Debug\SwimmingClub.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\StudentFiles\SwimmingClub\SwimmingClub\obj\Debug\SwimmingClub.xml
+C:\Users\user\Documents\Visual Studio 2008\Projects\StudentFiles\SwimmingClub\SwimmingClub\obj\Debug\SwimmingClub.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\NC1\StudentFiles\SwimmingClub\SwimmingClub\obj\Debug\SwimmingClub.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\NC1\StudentFiles\SwimmingClub\SwimmingClub\obj\Debug\SwimmingClub.xml
+C:\Users\user\Documents\Visual Studio 2008\Projects\NC1\StudentFiles\SwimmingClub\SwimmingClub\obj\Debug\SwimmingClub.pdb
+C:\Users\user\Desktop\ISD\Memo Files\NC1\SwimmingClub\SwimmingClub\obj\Debug\SwimmingClub.exe
+C:\Users\user\Desktop\ISD\Memo Files\NC1\SwimmingClub\SwimmingClub\obj\Debug\SwimmingClub.xml
+C:\Users\user\Desktop\ISD\Memo Files\NC1\SwimmingClub\SwimmingClub\obj\Debug\SwimmingClub.pdb
+C:\Users\user\Desktop\ISD\Memo Files\NC1\SwimmingClub\SwimmingClub\bin\Debug\SwimmingClub.exe
+C:\Users\user\Desktop\ISD\Memo Files\NC1\SwimmingClub\SwimmingClub\bin\Debug\SwimmingClub.pdb
+C:\Users\user\Desktop\ISD\Memo Files\NC1\SwimmingClub\SwimmingClub\bin\Debug\SwimmingClub.xml
+C:\Users\user\Desktop\ISD\Memo Files\NC1\SwimmingClub\SwimmingClub\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\ISD\Memo Files\NC1\SwimmingClub\SwimmingClub\obj\Debug\SwimmingClub.Form1.resources
+C:\Users\user\Desktop\ISD\Memo Files\NC1\SwimmingClub\SwimmingClub\obj\Debug\SwimmingClub.Resources.resources
+C:\Users\user\Desktop\ISD\Memo Files\NC1\SwimmingClub\SwimmingClub\obj\Debug\SwimmingClub.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\ISD\StudentFiles\NC1\SwimmingClub\SwimmingClub\obj\Debug\SwimmingClub.exe
+C:\Users\user\Desktop\ISD\StudentFiles\NC1\SwimmingClub\SwimmingClub\obj\Debug\SwimmingClub.xml
+C:\Users\user\Desktop\ISD\StudentFiles\NC1\SwimmingClub\SwimmingClub\obj\Debug\SwimmingClub.pdb
+C:\Users\Lusani\Desktop\ISD-P2-QP-MG StudentFiles\NC1\StudentFiles\NC1 -ISD\SwimmingClub\SwimmingClub\obj\Debug\SwimmingClub.exe
+C:\Users\Lusani\Desktop\ISD-P2-QP-MG StudentFiles\NC1\StudentFiles\NC1 -ISD\SwimmingClub\SwimmingClub\obj\Debug\SwimmingClub.xml
+C:\Users\Lusani\Desktop\ISD-P2-QP-MG StudentFiles\NC1\StudentFiles\NC1 -ISD\SwimmingClub\SwimmingClub\obj\Debug\SwimmingClub.pdb
