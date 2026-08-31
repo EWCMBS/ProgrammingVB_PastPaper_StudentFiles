@@ -1,0 +1,33 @@
+C:\Users\user\AppData\Local\Temporary Projects\ABS COMPS\bin\Debug\ABS COMPS.exe
+C:\Users\user\AppData\Local\Temporary Projects\ABS COMPS\bin\Debug\ABS COMPS.pdb
+C:\Users\user\AppData\Local\Temporary Projects\ABS COMPS\bin\Debug\ABS COMPS.xml
+C:\Users\user\AppData\Local\Temporary Projects\ABS COMPS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\ABS COMPS\obj\Debug\ABS_COMPS.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\ABS COMPS\obj\Debug\ABS_COMPS.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\ABS COMPS\obj\Debug\ABS COMPS.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\ABS COMPS\obj\Debug\ABS COMPS.exe
+C:\Users\user\AppData\Local\Temporary Projects\ABS COMPS\obj\Debug\ABS COMPS.xml
+C:\Users\user\AppData\Local\Temporary Projects\ABS COMPS\obj\Debug\ABS COMPS.pdb
+C:\Users\user\Desktop\ISD\Memo Files\NC1\ABS COMPS\ABS COMPS\obj\Debug\ABS COMPS.exe
+C:\Users\user\Desktop\ISD\Memo Files\NC1\ABS COMPS\ABS COMPS\obj\Debug\ABS COMPS.xml
+C:\Users\user\Desktop\ISD\Memo Files\NC1\ABS COMPS\ABS COMPS\obj\Debug\ABS COMPS.pdb
+C:\Users\user\Desktop\ISD\Memo Files\NC1\ABS COMPS\ABS COMPS\bin\Debug\ABS COMPS.exe
+C:\Users\user\Desktop\ISD\Memo Files\NC1\ABS COMPS\ABS COMPS\bin\Debug\ABS COMPS.pdb
+C:\Users\user\Desktop\ISD\Memo Files\NC1\ABS COMPS\ABS COMPS\bin\Debug\ABS COMPS.xml
+C:\Users\user\Desktop\ISD\Memo Files\NC1\ABS COMPS\ABS COMPS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\ISD\Memo Files\NC1\ABS COMPS\ABS COMPS\obj\Debug\ABS_COMPS.Form1.resources
+C:\Users\user\Desktop\ISD\Memo Files\NC1\ABS COMPS\ABS COMPS\obj\Debug\ABS_COMPS.Resources.resources
+C:\Users\user\Desktop\ISD\Memo Files\NC1\ABS COMPS\ABS COMPS\obj\Debug\ABS COMPS.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\ISD\StudentFiles\NC1\ABS COMPS\ABS COMPS\obj\Debug\ABS COMPS.exe
+C:\Users\user\Desktop\ISD\StudentFiles\NC1\ABS COMPS\ABS COMPS\obj\Debug\ABS COMPS.xml
+C:\Users\user\Desktop\ISD\StudentFiles\NC1\ABS COMPS\ABS COMPS\obj\Debug\ABS COMPS.pdb
+C:\Users\user\Desktop\ISD\StudentFiles\NC1\ABS COMPS\ABS COMPS\bin\Debug\ABS COMPS.exe
+C:\Users\user\Desktop\ISD\StudentFiles\NC1\ABS COMPS\ABS COMPS\bin\Debug\ABS COMPS.pdb
+C:\Users\user\Desktop\ISD\StudentFiles\NC1\ABS COMPS\ABS COMPS\bin\Debug\ABS COMPS.xml
+C:\Users\user\Desktop\ISD\StudentFiles\NC1\ABS COMPS\ABS COMPS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\ISD\StudentFiles\NC1\ABS COMPS\ABS COMPS\obj\Debug\ABS_COMPS.Form1.resources
+C:\Users\user\Desktop\ISD\StudentFiles\NC1\ABS COMPS\ABS COMPS\obj\Debug\ABS_COMPS.Resources.resources
+C:\Users\user\Desktop\ISD\StudentFiles\NC1\ABS COMPS\ABS COMPS\obj\Debug\ABS COMPS.vbproj.GenerateResource.Cache
+F:\ISD-P2-QP-MG StudentFiles\NC1\StudentFiles\NC1 -ISD\ABS COMPS\ABS COMPS\obj\Debug\ABS COMPS.exe
+F:\ISD-P2-QP-MG StudentFiles\NC1\StudentFiles\NC1 -ISD\ABS COMPS\ABS COMPS\obj\Debug\ABS COMPS.xml
+F:\ISD-P2-QP-MG StudentFiles\NC1\StudentFiles\NC1 -ISD\ABS COMPS\ABS COMPS\obj\Debug\ABS COMPS.pdb
