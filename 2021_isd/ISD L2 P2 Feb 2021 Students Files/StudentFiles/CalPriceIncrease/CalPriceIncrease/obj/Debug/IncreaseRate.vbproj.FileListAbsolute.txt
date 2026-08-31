@@ -1,0 +1,10 @@
+C:\Users\user\AppData\Local\Temporary Projects\IncreaseRate\bin\Debug\IncreaseRate.exe
+C:\Users\user\AppData\Local\Temporary Projects\IncreaseRate\bin\Debug\IncreaseRate.pdb
+C:\Users\user\AppData\Local\Temporary Projects\IncreaseRate\bin\Debug\IncreaseRate.xml
+C:\Users\user\AppData\Local\Temporary Projects\IncreaseRate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\IncreaseRate\obj\Debug\IncreaseRate.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\IncreaseRate\obj\Debug\IncreaseRate.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\IncreaseRate\obj\Debug\IncreaseRate.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\IncreaseRate\obj\Debug\IncreaseRate.exe
+C:\Users\user\AppData\Local\Temporary Projects\IncreaseRate\obj\Debug\IncreaseRate.xml
+C:\Users\user\AppData\Local\Temporary Projects\IncreaseRate\obj\Debug\IncreaseRate.pdb
