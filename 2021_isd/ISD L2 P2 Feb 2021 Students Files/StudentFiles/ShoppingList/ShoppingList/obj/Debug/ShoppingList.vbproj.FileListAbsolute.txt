@@ -1,0 +1,33 @@
+C:\Users\user\AppData\Local\Temporary Projects\ShoppingList\bin\Debug\ShoppingList.exe
+C:\Users\user\AppData\Local\Temporary Projects\ShoppingList\bin\Debug\ShoppingList.pdb
+C:\Users\user\AppData\Local\Temporary Projects\ShoppingList\bin\Debug\ShoppingList.xml
+C:\Users\user\AppData\Local\Temporary Projects\ShoppingList\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\ShoppingList\obj\Debug\ShoppingList.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\ShoppingList\obj\Debug\ShoppingList.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\ShoppingList\obj\Debug\ShoppingList.exe
+C:\Users\user\AppData\Local\Temporary Projects\ShoppingList\obj\Debug\ShoppingList.xml
+C:\Users\user\AppData\Local\Temporary Projects\ShoppingList\obj\Debug\ShoppingList.pdb
+C:\Users\user\AppData\Local\Temporary Projects\ShoppingList\obj\Debug\ShoppingList.frmShoppingList.resources
+C:\Users\user\Desktop\ISD\Memo Files\NC2\ShoppingList\ShoppingList\obj\Debug\ShoppingList.exe
+C:\Users\user\Desktop\ISD\Memo Files\NC2\ShoppingList\ShoppingList\obj\Debug\ShoppingList.xml
+C:\Users\user\Desktop\ISD\Memo Files\NC2\ShoppingList\ShoppingList\obj\Debug\ShoppingList.pdb
+C:\Users\user\Desktop\ISD\Memo Files\NC2\ShoppingList\ShoppingList\bin\Debug\ShoppingList.exe
+C:\Users\user\Desktop\ISD\Memo Files\NC2\ShoppingList\ShoppingList\bin\Debug\ShoppingList.pdb
+C:\Users\user\Desktop\ISD\Memo Files\NC2\ShoppingList\ShoppingList\bin\Debug\ShoppingList.xml
+C:\Users\user\Desktop\ISD\Memo Files\NC2\ShoppingList\ShoppingList\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\ISD\Memo Files\NC2\ShoppingList\ShoppingList\obj\Debug\ShoppingList.frmShoppingList.resources
+C:\Users\user\Desktop\ISD\Memo Files\NC2\ShoppingList\ShoppingList\obj\Debug\ShoppingList.Resources.resources
+C:\Users\user\Desktop\ISD\Memo Files\NC2\ShoppingList\ShoppingList\obj\Debug\ShoppingList.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\ISD\StudentFiles\NC2\ShoppingList\ShoppingList\obj\Debug\ShoppingList.exe
+C:\Users\user\Desktop\ISD\StudentFiles\NC2\ShoppingList\ShoppingList\obj\Debug\ShoppingList.xml
+C:\Users\user\Desktop\ISD\StudentFiles\NC2\ShoppingList\ShoppingList\obj\Debug\ShoppingList.pdb
+C:\Users\user\Desktop\ISD\StudentFiles\NC2\ShoppingList\ShoppingList\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\ISD\StudentFiles\NC2\ShoppingList\ShoppingList\obj\Debug\ShoppingList.frmShoppingList.resources
+C:\Users\user\Desktop\ISD\StudentFiles\NC2\ShoppingList\ShoppingList\obj\Debug\ShoppingList.Resources.resources
+C:\Users\user\Desktop\ISD\StudentFiles\NC2\ShoppingList\ShoppingList\obj\Debug\ShoppingList.vbproj.GenerateResource.Cache
+F:\ISD-P2-QP-MG StudentFiles\NC2\StudentFiles\NC2-ISD\ShoppingList\ShoppingList\obj\Debug\ShoppingList.exe
+F:\ISD-P2-QP-MG StudentFiles\NC2\StudentFiles\NC2-ISD\ShoppingList\ShoppingList\obj\Debug\ShoppingList.xml
+F:\ISD-P2-QP-MG StudentFiles\NC2\StudentFiles\NC2-ISD\ShoppingList\ShoppingList\obj\Debug\ShoppingList.pdb
+C:\Users\Lusani\Desktop\ISD-P2-QP-MG StudentFiles\NC2\StudentFiles\NC2-ISD\ShoppingList\ShoppingList\obj\Debug\ShoppingList.exe
+C:\Users\Lusani\Desktop\ISD-P2-QP-MG StudentFiles\NC2\StudentFiles\NC2-ISD\ShoppingList\ShoppingList\obj\Debug\ShoppingList.xml
+C:\Users\Lusani\Desktop\ISD-P2-QP-MG StudentFiles\NC2\StudentFiles\NC2-ISD\ShoppingList\ShoppingList\obj\Debug\ShoppingList.pdb
