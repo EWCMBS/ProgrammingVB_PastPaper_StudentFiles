@@ -1,0 +1,40 @@
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\MedAidCalc\MedAid\obj\Debug\MediAid Contribution Calculator.exe
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\MedAidCalc\MedAid\obj\Debug\MediAid Contribution Calculator.xml
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\MedAidCalc\MedAid\obj\Debug\MediAid Contribution Calculator.pdb
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\MedAidCalc\MedAid\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\MedAidCalc\MedAid\obj\Debug\MediAid_Contribution_Calculator.Resources.resources
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\MedAidCalc\MedAid\obj\Debug\MedAidCalc.vbproj.GenerateResource.Cache
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\MedAidCalc\MedAid\bin\Debug\MediAid Contribution Calculator.exe
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\MedAidCalc\MedAid\bin\Debug\MediAid Contribution Calculator.pdb
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\MedAidCalc\MedAid\bin\Debug\MediAid Contribution Calculator.xml
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\MedAidCalc\MedAid\obj\Debug\MediAid_Contribution_Calculator.frmCalc.resources
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\Memo Files\MedAidCalc\MedAid\obj\Debug\MediAid Contribution Calculator.exe
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\Memo Files\MedAidCalc\MedAid\obj\Debug\MediAid Contribution Calculator.xml
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\Memo Files\MedAidCalc\MedAid\obj\Debug\MediAid Contribution Calculator.pdb
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\Memo Files\MedAidCalc\MedAid\bin\Debug\MediAid Contribution Calculator.exe
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\Memo Files\MedAidCalc\MedAid\bin\Debug\MediAid Contribution Calculator.pdb
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\Memo Files\MedAidCalc\MedAid\bin\Debug\MediAid Contribution Calculator.xml
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\Memo Files\MedAidCalc\MedAid\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\Memo Files\MedAidCalc\MedAid\obj\Debug\MediAid_Contribution_Calculator.frmCalc.resources
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\Memo Files\MedAidCalc\MedAid\obj\Debug\MediAid_Contribution_Calculator.Resources.resources
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\Memo Files\MedAidCalc\MedAid\obj\Debug\MedAidCalc.vbproj.GenerateResource.Cache
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\MedAidCalc\MedAid\obj\Debug\MediAid Contribution Calculator.exe
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\MedAidCalc\MedAid\obj\Debug\MediAid Contribution Calculator.xml
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\MedAidCalc\MedAid\obj\Debug\MediAid Contribution Calculator.pdb
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\MedAidCalc\MedAid\bin\Release\MediAid Contribution Calculator.exe
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\MedAidCalc\MedAid\bin\Release\MediAid Contribution Calculator.pdb
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\MedAidCalc\MedAid\bin\Release\MediAid Contribution Calculator.xml
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\MedAidCalc\MedAid\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\MedAidCalc\MedAid\obj\Release\MediAid_Contribution_Calculator.frmCalc.resources
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\MedAidCalc\MedAid\obj\Release\MediAid_Contribution_Calculator.Resources.resources
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\MedAidCalc\MedAid\obj\Release\MedAidCalc.vbproj.GenerateResource.Cache
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\MedAidCalc\MedAid\obj\Release\MediAid Contribution Calculator.exe
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\MedAidCalc\MedAid\obj\Release\MediAid Contribution Calculator.xml
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\MedAidCalc\MedAid\obj\Release\MediAid Contribution Calculator.pdb
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\MedAidCalc\MedAid\bin\Debug\MediAid Contribution Calculator.exe
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\MedAidCalc\MedAid\bin\Debug\MediAid Contribution Calculator.pdb
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\MedAidCalc\MedAid\bin\Debug\MediAid Contribution Calculator.xml
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\MedAidCalc\MedAid\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\MedAidCalc\MedAid\obj\Debug\MediAid_Contribution_Calculator.frmCalc.resources
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\MedAidCalc\MedAid\obj\Debug\MediAid_Contribution_Calculator.Resources.resources
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\MedAidCalc\MedAid\obj\Debug\MedAidCalc.vbproj.GenerateResource.Cache

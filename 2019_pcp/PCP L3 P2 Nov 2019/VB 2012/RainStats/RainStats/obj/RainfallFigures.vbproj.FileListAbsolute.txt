@@ -1,0 +1,68 @@
+C:\Projects\Programming\RainfallFigures\RainfallFigures\obj\Debug\RainfallFigures.exe
+C:\Projects\Programming\RainfallFigures\RainfallFigures\obj\Debug\RainfallFigures.xml
+C:\Projects\Programming\RainfallFigures\RainfallFigures\obj\Debug\RainfallFigures.pdb
+C:\Projects\Programming\RainfallFigures\RainfallFigures\bin\Release\RainfallFigures.exe
+C:\Projects\Programming\RainfallFigures\RainfallFigures\bin\Release\RainfallFigures.pdb
+C:\Projects\Programming\RainfallFigures\RainfallFigures\bin\Release\RainfallFigures.xml
+C:\Projects\Programming\RainfallFigures\RainfallFigures\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\Programming\RainfallFigures\RainfallFigures\obj\Release\RainfallFigures.Form1.resources
+C:\Projects\Programming\RainfallFigures\RainfallFigures\obj\Release\RainfallFigures.frmMonthlyRainfallMonitor.resources
+C:\Projects\Programming\RainfallFigures\RainfallFigures\obj\Release\RainfallFigures.Resources.resources
+C:\Projects\Programming\RainfallFigures\RainfallFigures\obj\Release\RainfallFigures.vbproj.GenerateResource.Cache
+C:\Projects\Programming\RainfallFigures\RainfallFigures\obj\Release\RainfallFigures.exe
+C:\Projects\Programming\RainfallFigures\RainfallFigures\obj\Release\RainfallFigures.xml
+C:\Projects\Programming\RainfallFigures\RainfallFigures\obj\Release\RainfallFigures.pdb
+C:\Projects\Programming\RainfallFigures\RainfallFigures\bin\Debug\RainfallFigures.exe
+C:\Projects\Programming\RainfallFigures\RainfallFigures\bin\Debug\RainfallFigures.pdb
+C:\Projects\Programming\RainfallFigures\RainfallFigures\bin\Debug\RainfallFigures.xml
+C:\Projects\Programming\RainfallFigures\RainfallFigures\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Programming\RainfallFigures\RainfallFigures\obj\Debug\RainfallFigures.Form1.resources
+C:\Projects\Programming\RainfallFigures\RainfallFigures\obj\Debug\RainfallFigures.frmMonthlyRainfallMonitor.resources
+C:\Projects\Programming\RainfallFigures\RainfallFigures\obj\Debug\RainfallFigures.Resources.resources
+C:\Projects\Programming\RainfallFigures\RainfallFigures\obj\Debug\RainfallFigures.vbproj.GenerateResource.Cache
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\RainfallFigures\RainfallFigures\obj\Debug\RainfallFigures.exe
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\RainfallFigures\RainfallFigures\obj\Debug\RainfallFigures.xml
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\RainfallFigures\RainfallFigures\obj\Debug\RainfallFigures.pdb
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\RainfallFigures\RainfallFigures\bin\Debug\RainfallFigures.exe
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\RainfallFigures\RainfallFigures\bin\Debug\RainfallFigures.pdb
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\RainfallFigures\RainfallFigures\bin\Debug\RainfallFigures.xml
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\RainfallFigures\RainfallFigures\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\RainfallFigures\RainfallFigures\obj\Debug\RainfallFigures.Form1.resources
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\RainfallFigures\RainfallFigures\obj\Debug\RainfallFigures.frmMonthlyRainfallMonitor.resources
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\RainfallFigures\RainfallFigures\obj\Debug\RainfallFigures.Resources.resources
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\RainfallFigures\RainfallFigures\obj\Debug\RainfallFigures.vbproj.GenerateResource.Cache
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\RainfallFigures\RainfallFigures\bin\Release\RainfallFigures.exe
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\RainfallFigures\RainfallFigures\bin\Release\RainfallFigures.pdb
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\RainfallFigures\RainfallFigures\bin\Release\RainfallFigures.xml
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\RainfallFigures\RainfallFigures\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\RainfallFigures\RainfallFigures\obj\Release\RainfallFigures.Form1.resources
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\RainfallFigures\RainfallFigures\obj\Release\RainfallFigures.frmMonthlyRainfallMonitor.resources
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\RainfallFigures\RainfallFigures\obj\Release\RainfallFigures.Resources.resources
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\RainfallFigures\RainfallFigures\obj\Release\RainfallFigures.vbproj.GenerateResource.Cache
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\RainfallFigures\RainfallFigures\obj\Release\RainfallFigures.exe
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\RainfallFigures\RainfallFigures\obj\Release\RainfallFigures.xml
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\RainfallFigures\RainfallFigures\obj\Release\RainfallFigures.pdb
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\RainfallFigures\RainfallFigures\obj\Debug\RainfallFigures.AboutBox1.resources
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\RainfallFigures\RainfallFigures\obj\Release\RainfallFigures.AboutBox1.resources
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\Principles of Computer Progrmming L3 P2\N1 of 2018\RainfallFigures\RainfallFigures\obj\Debug\RainfallFigures.exe
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\Principles of Computer Progrmming L3 P2\N1 of 2018\RainfallFigures\RainfallFigures\obj\Debug\RainfallFigures.xml
+C:\Projects\MN Info\mn info\Examiners\2018 Papers\Principles of Computer Progrmming L3 P2\N1 of 2018\RainfallFigures\RainfallFigures\obj\Debug\RainfallFigures.pdb
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\RainfallFigures\RainfallFigures\obj\Debug\RainfallFigures.exe
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\RainfallFigures\RainfallFigures\obj\Debug\RainfallFigures.xml
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\RainfallFigures\RainfallFigures\obj\Debug\RainfallFigures.pdb
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Memo Files\RainStats\RainfallFigures\obj\Debug\RainfallFigures.exe
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Memo Files\RainStats\RainfallFigures\obj\Debug\RainfallFigures.xml
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Memo Files\RainStats\RainfallFigures\obj\Debug\RainfallFigures.pdb
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Memo Files\RainStats\RainfallFigures\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Memo Files\RainStats\RainfallFigures\obj\Debug\RainfallFigures.frmMonthlyRainfallMonitor.resources
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Memo Files\RainStats\RainfallFigures\obj\Debug\RainfallFigures.Resources.resources
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Memo Files\RainStats\RainfallFigures\obj\Debug\RainfallFigures.vbproj.GenerateResource.Cache
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Memo Files\RainStats\RainfallFigures\bin\Debug\RainfallFigures.exe
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Memo Files\RainStats\RainfallFigures\bin\Debug\RainfallFigures.pdb
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Memo Files\RainStats\RainfallFigures\bin\Debug\RainfallFigures.xml
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\Memo Files\RainStats\RainfallFigures\obj\Debug\RainfallFigures.exe
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\Memo Files\RainStats\RainfallFigures\obj\Debug\RainfallFigures.xml
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\Memo Files\RainStats\RainfallFigures\obj\Debug\RainfallFigures.pdb
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\Memo Files\RainStats\RainStats\obj\Debug\RainfallFigures.exe
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\Memo Files\RainStats\RainStats\obj\Debug\RainfallFigures.xml
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\Memo Files\RainStats\RainStats\obj\Debug\RainfallFigures.pdb

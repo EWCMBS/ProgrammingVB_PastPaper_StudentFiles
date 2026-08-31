@@ -1,0 +1,23 @@
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\Memo Files\RainStats\RainStats\obj\Debug\RainfallFigures.exe
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\Memo Files\RainStats\RainStats\obj\Debug\RainfallFigures.xml
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\Memo Files\RainStats\RainStats\obj\Debug\RainfallFigures.pdb
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\RainStats\RainStats\obj\Debug\RainfallFigures.exe
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\RainStats\RainStats\obj\Debug\RainfallFigures.xml
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\RainStats\RainStats\obj\Debug\RainfallFigures.pdb
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\RainStats\RainStats\bin\Debug\RainfallFigures.exe
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\RainStats\RainStats\bin\Debug\RainfallFigures.pdb
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\RainStats\RainStats\bin\Debug\RainfallFigures.xml
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\RainStats\RainStats\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\RainStats\RainStats\obj\Debug\RainfallFigures.frmRainMonitor.resources
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\RainStats\RainStats\obj\Debug\RainfallFigures.Resources.resources
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\RainStats\RainStats\obj\Debug\RainStats.vbproj.GenerateResource.Cache
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\RainStats\RainStats\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\RainStats\RainStats\obj\Release\RainfallFigures.frmRainMonitor.resources
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\RainStats\RainStats\obj\Release\RainfallFigures.Resources.resources
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\RainStats\RainStats\obj\Release\RainStats.vbproj.GenerateResource.Cache
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\RainStats\RainStats\obj\Release\RainfallFigures.exe
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\RainStats\RainStats\obj\Release\RainfallFigures.xml
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\RainStats\RainStats\obj\Release\RainfallFigures.pdb
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\RainStats\RainStats\bin\Release\RainfallFigures.exe
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\RainStats\RainStats\bin\Release\RainfallFigures.pdb
+C:\Users\Ameena\Desktop\Mod 2018 -2019\242\Principles of Computer Progrmming L3 P2\N1 of 2018\Student files to load\VB 2005\RainStats\RainStats\bin\Release\RainfallFigures.xml

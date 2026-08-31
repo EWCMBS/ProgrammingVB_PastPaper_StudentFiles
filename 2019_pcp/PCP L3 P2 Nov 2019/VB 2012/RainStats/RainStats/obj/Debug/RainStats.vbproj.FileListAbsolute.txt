@@ -1,0 +1,23 @@
+C:\Users\Faheem\Desktop\VB 2008\RainStats\RainStats\obj\Debug\RainfallFigures.exe
+C:\Users\Faheem\Desktop\VB 2008\RainStats\RainStats\obj\Debug\RainfallFigures.xml
+C:\Users\Faheem\Desktop\VB 2008\RainStats\RainStats\obj\Debug\RainfallFigures.pdb
+C:\Users\Faheem\Desktop\VB 2008\RainStats\RainStats\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faheem\Desktop\VB 2008\RainStats\RainStats\obj\Debug\RainfallFigures.frmRainMonitor.resources
+C:\Users\Faheem\Desktop\VB 2008\RainStats\RainStats\obj\Debug\RainfallFigures.Resources.resources
+C:\Users\Faheem\Desktop\VB 2008\RainStats\RainStats\obj\Debug\RainStats.vbproj.GenerateResource.Cache
+C:\Users\Faheem\Desktop\VB 2010\RainStats\RainStats\obj\Debug\RainfallFigures.exe
+C:\Users\Faheem\Desktop\VB 2010\RainStats\RainStats\obj\Debug\RainfallFigures.xml
+C:\Users\Faheem\Desktop\VB 2010\RainStats\RainStats\obj\Debug\RainfallFigures.pdb
+C:\Users\Faheem\Desktop\VB 2010\RainStats\RainStats\obj\Debug\RainfallFigures.frmRainMonitor.resources
+C:\Users\Faheem\Desktop\VB 2010\RainStats\RainStats\obj\Debug\RainfallFigures.Resources.resources
+C:\Users\Faheem\Desktop\VB 2010\RainStats\RainStats\obj\Debug\RainStats.vbproj.GenerateResource.Cache
+C:\Users\Faheem\Desktop\VB 2012\RainStats\RainStats\obj\Debug\RainfallFigures.exe
+C:\Users\Faheem\Desktop\VB 2012\RainStats\RainStats\obj\Debug\RainfallFigures.xml
+C:\Users\Faheem\Desktop\VB 2012\RainStats\RainStats\obj\Debug\RainfallFigures.pdb
+C:\Users\Faheem\Desktop\VB 2012\RainStats\RainStats\obj\Debug\RainfallFigures.frmRainMonitor.resources
+C:\Users\Faheem\Desktop\VB 2012\RainStats\RainStats\obj\Debug\RainfallFigures.Resources.resources
+C:\Users\Faheem\Desktop\VB 2012\RainStats\RainStats\obj\Debug\RainStats.vbproj.GenerateResource.Cache
+E:\NC(V) November 2019 Replacement student files\PCP L3 P2\StudentFiles\VB 2012\RainStats\RainStats\bin\Debug\RainfallFigures.exe.config
+E:\NC(V) November 2019 Replacement student files\PCP L3 P2\StudentFiles\VB 2012\RainStats\RainStats\obj\Debug\RainfallFigures.exe
+E:\NC(V) November 2019 Replacement student files\PCP L3 P2\StudentFiles\VB 2012\RainStats\RainStats\obj\Debug\RainfallFigures.xml
+E:\NC(V) November 2019 Replacement student files\PCP L3 P2\StudentFiles\VB 2012\RainStats\RainStats\obj\Debug\RainfallFigures.pdb
