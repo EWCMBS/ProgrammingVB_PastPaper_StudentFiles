@@ -1,0 +1,6 @@
+G:\Mod 2019 - 2020\242\Principles Of Computer Programming L3 P2 - NC1, NC2 & NC3 of 2019\NC1 of 2019\StudentFiles\VB2008\ClassRep\ClassRepresentatives\obj\Debug\ClassRepresentatives.exe
+G:\Mod 2019 - 2020\242\Principles Of Computer Programming L3 P2 - NC1, NC2 & NC3 of 2019\NC1 of 2019\StudentFiles\VB2008\ClassRep\ClassRepresentatives\obj\Debug\ClassRepresentatives.xml
+G:\Mod 2019 - 2020\242\Principles Of Computer Programming L3 P2 - NC1, NC2 & NC3 of 2019\NC1 of 2019\StudentFiles\VB2008\ClassRep\ClassRepresentatives\obj\Debug\ClassRepresentatives.pdb
+G:\Mod 2019 - 2020\242\Principles Of Computer Programming L3 P2 - NC1, NC2 & NC3 of 2019\NC1 of 2019\StudentFiles\VB2005\ClassRep\ClassRepresentatives\obj\Debug\ClassRepresentatives.exe
+G:\Mod 2019 - 2020\242\Principles Of Computer Programming L3 P2 - NC1, NC2 & NC3 of 2019\NC1 of 2019\StudentFiles\VB2005\ClassRep\ClassRepresentatives\obj\Debug\ClassRepresentatives.xml
+G:\Mod 2019 - 2020\242\Principles Of Computer Programming L3 P2 - NC1, NC2 & NC3 of 2019\NC1 of 2019\StudentFiles\VB2005\ClassRep\ClassRepresentatives\obj\Debug\ClassRepresentatives.pdb
