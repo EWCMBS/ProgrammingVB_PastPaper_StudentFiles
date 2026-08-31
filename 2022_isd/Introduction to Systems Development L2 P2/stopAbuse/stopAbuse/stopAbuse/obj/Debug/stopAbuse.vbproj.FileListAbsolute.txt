@@ -1,0 +1,34 @@
+C:\Users\User\Desktop\2021 - 2022 ISD files\stopAbuse\stopAbuse\bin\Debug\stopAbuse.exe
+C:\Users\User\Desktop\2021 - 2022 ISD files\stopAbuse\stopAbuse\bin\Debug\stopAbuse.pdb
+C:\Users\User\Desktop\2021 - 2022 ISD files\stopAbuse\stopAbuse\bin\Debug\stopAbuse.xml
+C:\Users\User\Desktop\2021 - 2022 ISD files\stopAbuse\stopAbuse\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\2021 - 2022 ISD files\stopAbuse\stopAbuse\obj\Debug\stopAbuse.Form1.resources
+C:\Users\User\Desktop\2021 - 2022 ISD files\stopAbuse\stopAbuse\obj\Debug\stopAbuse.Resources.resources
+C:\Users\User\Desktop\2021 - 2022 ISD files\stopAbuse\stopAbuse\obj\Debug\stopAbuse.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\2021 - 2022 ISD files\stopAbuse\stopAbuse\obj\Debug\stopAbuse.exe
+C:\Users\User\Desktop\2021 - 2022 ISD files\stopAbuse\stopAbuse\obj\Debug\stopAbuse.xml
+C:\Users\User\Desktop\2021 - 2022 ISD files\stopAbuse\stopAbuse\obj\Debug\stopAbuse.pdb
+C:\Users\User\Desktop\External 2021\2021 - 2022 ISD files\stopAbuse\stopAbuse\obj\Debug\stopAbuse.exe
+C:\Users\User\Desktop\External 2021\2021 - 2022 ISD files\stopAbuse\stopAbuse\obj\Debug\stopAbuse.xml
+C:\Users\User\Desktop\External 2021\2021 - 2022 ISD files\stopAbuse\stopAbuse\obj\Debug\stopAbuse.pdb
+C:\Users\User\Desktop\External 2021\2021 - 2022 ISD files\stopAbuse\stopAbuse\bin\Debug\stopAbuse.exe
+C:\Users\User\Desktop\External 2021\2021 - 2022 ISD files\stopAbuse\stopAbuse\bin\Debug\stopAbuse.pdb
+C:\Users\User\Desktop\External 2021\2021 - 2022 ISD files\stopAbuse\stopAbuse\bin\Debug\stopAbuse.xml
+C:\Users\User\Desktop\External 2021\2021 - 2022 ISD files\stopAbuse\stopAbuse\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\External 2021\2021 - 2022 ISD files\stopAbuse\stopAbuse\obj\Debug\stopAbuse.Form1.resources
+C:\Users\User\Desktop\External 2021\2021 - 2022 ISD files\stopAbuse\stopAbuse\obj\Debug\stopAbuse.Resources.resources
+C:\Users\User\Desktop\External 2021\2021 - 2022 ISD files\stopAbuse\stopAbuse\obj\Debug\stopAbuse.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\External 2021\keyin material\stopAbuse\stopAbuse\obj\Debug\stopAbuse.exe
+C:\Users\User\Desktop\External 2021\keyin material\stopAbuse\stopAbuse\obj\Debug\stopAbuse.xml
+C:\Users\User\Desktop\External 2021\keyin material\stopAbuse\stopAbuse\obj\Debug\stopAbuse.pdb
+C:\Users\User\Desktop\External 2021\QP_PNCV_01_of_1\Keyin material\stopAbuse\stopAbuse\obj\Debug\stopAbuse.exe
+C:\Users\User\Desktop\External 2021\QP_PNCV_01_of_1\Keyin material\stopAbuse\stopAbuse\obj\Debug\stopAbuse.xml
+C:\Users\User\Desktop\External 2021\QP_PNCV_01_of_1\Keyin material\stopAbuse\stopAbuse\obj\Debug\stopAbuse.pdb
+C:\Users\Administrator\Pictures\NC(V) IT Student Files November 2022\Intro to Systems Development L2 P2\Student Files\stopAbuse\stopAbuse\bin\Debug\stopAbuse.exe.config
+C:\Users\Administrator\Pictures\NC(V) IT Student Files November 2022\Intro to Systems Development L2 P2\Student Files\stopAbuse\stopAbuse\obj\Debug\stopAbuse.exe
+C:\Users\Administrator\Pictures\NC(V) IT Student Files November 2022\Intro to Systems Development L2 P2\Student Files\stopAbuse\stopAbuse\obj\Debug\stopAbuse.xml
+C:\Users\Administrator\Pictures\NC(V) IT Student Files November 2022\Intro to Systems Development L2 P2\Student Files\stopAbuse\stopAbuse\obj\Debug\stopAbuse.pdb
+C:\Users\Administrator\Pictures\NC(V) IT Student Files November 2022\Intro to Systems Development L2 P2\stopAbuse\stopAbuse\bin\Debug\stopAbuse.exe.config
+C:\Users\Administrator\Pictures\NC(V) IT Student Files November 2022\Intro to Systems Development L2 P2\stopAbuse\stopAbuse\obj\Debug\stopAbuse.exe
+C:\Users\Administrator\Pictures\NC(V) IT Student Files November 2022\Intro to Systems Development L2 P2\stopAbuse\stopAbuse\obj\Debug\stopAbuse.xml
+C:\Users\Administrator\Pictures\NC(V) IT Student Files November 2022\Intro to Systems Development L2 P2\stopAbuse\stopAbuse\obj\Debug\stopAbuse.pdb
