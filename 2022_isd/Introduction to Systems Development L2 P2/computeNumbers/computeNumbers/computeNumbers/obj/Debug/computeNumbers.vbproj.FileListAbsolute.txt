@@ -1,0 +1,8 @@
+C:\Users\Administrator\Pictures\NC(V) IT Student Files November 2022\Intro to Systems Development L2 P2\Student Files\computeNumbers\computeNumbers\bin\Debug\computeNumbers.exe.config
+C:\Users\Administrator\Pictures\NC(V) IT Student Files November 2022\Intro to Systems Development L2 P2\Student Files\computeNumbers\computeNumbers\obj\Debug\computeNumbers.exe
+C:\Users\Administrator\Pictures\NC(V) IT Student Files November 2022\Intro to Systems Development L2 P2\Student Files\computeNumbers\computeNumbers\obj\Debug\computeNumbers.xml
+C:\Users\Administrator\Pictures\NC(V) IT Student Files November 2022\Intro to Systems Development L2 P2\Student Files\computeNumbers\computeNumbers\obj\Debug\computeNumbers.pdb
+C:\Users\Administrator\Pictures\NC(V) IT Student Files November 2022\Intro to Systems Development L2 P2\computeNumbers\computeNumbers\bin\Debug\computeNumbers.exe.config
+C:\Users\Administrator\Pictures\NC(V) IT Student Files November 2022\Intro to Systems Development L2 P2\computeNumbers\computeNumbers\obj\Debug\computeNumbers.exe
+C:\Users\Administrator\Pictures\NC(V) IT Student Files November 2022\Intro to Systems Development L2 P2\computeNumbers\computeNumbers\obj\Debug\computeNumbers.xml
+C:\Users\Administrator\Pictures\NC(V) IT Student Files November 2022\Intro to Systems Development L2 P2\computeNumbers\computeNumbers\obj\Debug\computeNumbers.pdb
