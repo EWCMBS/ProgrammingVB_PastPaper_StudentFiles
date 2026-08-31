@@ -1,0 +1,10 @@
+C:\Users\user\AppData\Local\Temporary Projects\DreamTripCalculator\bin\Debug\DreamTripCalculator.exe
+C:\Users\user\AppData\Local\Temporary Projects\DreamTripCalculator\bin\Debug\DreamTripCalculator.pdb
+C:\Users\user\AppData\Local\Temporary Projects\DreamTripCalculator\bin\Debug\DreamTripCalculator.xml
+C:\Users\user\AppData\Local\Temporary Projects\DreamTripCalculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\DreamTripCalculator\obj\Debug\DreamTripCalculator.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\DreamTripCalculator\obj\Debug\DreamTripCalculator.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\DreamTripCalculator\obj\Debug\DreamTripCalculator.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\DreamTripCalculator\obj\Debug\DreamTripCalculator.exe
+C:\Users\user\AppData\Local\Temporary Projects\DreamTripCalculator\obj\Debug\DreamTripCalculator.xml
+C:\Users\user\AppData\Local\Temporary Projects\DreamTripCalculator\obj\Debug\DreamTripCalculator.pdb
