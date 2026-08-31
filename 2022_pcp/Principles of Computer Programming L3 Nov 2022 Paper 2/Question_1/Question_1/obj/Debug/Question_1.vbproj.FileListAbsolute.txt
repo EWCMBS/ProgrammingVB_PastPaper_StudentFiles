@@ -1,0 +1,18 @@
+C:\Users\i5\AppData\Local\Temporary Projects\Question_1\bin\Debug\Question_1.exe.config
+C:\Users\i5\Documents\Visual Studio 2012\Projects\PCP Workfiles\Question_1\Question_1\bin\Debug\Question_1.exe.config
+C:\Users\Sabelo\Downloads\PCP Workfiles\PCP Workfiles\Question_1\Question_1\obj\Debug\Question_1.vbprojAssemblyReference.cache
+C:\Users\Sabelo\Downloads\PCP Workfiles\PCP Workfiles\Question_1\Question_1\obj\Debug\Question_1.frmQuestion1.resources
+C:\Users\Sabelo\Downloads\PCP Workfiles\PCP Workfiles\Question_1\Question_1\obj\Debug\Question_1.Resources.resources
+C:\Users\Sabelo\Downloads\PCP Workfiles\PCP Workfiles\Question_1\Question_1\obj\Debug\Question_1.vbproj.GenerateResource.cache
+C:\Users\Sabelo\Downloads\PCP Workfiles\PCP Workfiles\Question_1\Question_1\obj\Debug\Question_1.vbproj.CoreCompileInputs.cache
+C:\Users\Sabelo\Downloads\PCP Workfiles\PCP Workfiles\Question_1\Question_1\bin\Debug\Question_1.exe.config
+C:\Users\Sabelo\Downloads\PCP Workfiles\PCP Workfiles\Question_1\Question_1\bin\Debug\Question_1.exe
+C:\Users\Sabelo\Downloads\PCP Workfiles\PCP Workfiles\Question_1\Question_1\bin\Debug\Question_1.pdb
+C:\Users\Sabelo\Downloads\PCP Workfiles\PCP Workfiles\Question_1\Question_1\bin\Debug\Question_1.xml
+C:\Users\Sabelo\Downloads\PCP Workfiles\PCP Workfiles\Question_1\Question_1\obj\Debug\Question_1.exe
+C:\Users\Sabelo\Downloads\PCP Workfiles\PCP Workfiles\Question_1\Question_1\obj\Debug\Question_1.xml
+C:\Users\Sabelo\Downloads\PCP Workfiles\PCP Workfiles\Question_1\Question_1\obj\Debug\Question_1.pdb
+C:\Users\Administrator\Pictures\NC(V) IT Student Files November 2022\PRINCIPLES OF COMPUTER PROGRAMMING L3 P2\Question_1\Question_1\bin\Debug\Question_1.exe.config
+C:\Users\Administrator\Pictures\NC(V) IT Student Files November 2022\PRINCIPLES OF COMPUTER PROGRAMMING L3 P2\Question_1\Question_1\obj\Debug\Question_1.exe
+C:\Users\Administrator\Pictures\NC(V) IT Student Files November 2022\PRINCIPLES OF COMPUTER PROGRAMMING L3 P2\Question_1\Question_1\obj\Debug\Question_1.xml
+C:\Users\Administrator\Pictures\NC(V) IT Student Files November 2022\PRINCIPLES OF COMPUTER PROGRAMMING L3 P2\Question_1\Question_1\obj\Debug\Question_1.pdb
